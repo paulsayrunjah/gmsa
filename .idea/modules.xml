@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gmsa.iml" filepath="$PROJECT_DIR$/.idea/modules/gmsa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gmsa_main.iml" filepath="$PROJECT_DIR$/.idea/modules/gmsa_main.iml" group="gmsa" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gmsa_test.iml" filepath="$PROJECT_DIR$/.idea/modules/gmsa_test.iml" group="gmsa" />
+    </modules>
+  </component>
+</project>
